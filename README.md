@@ -79,20 +79,6 @@ me.say_hi()
 
 </details>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=init-nj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=init-nj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on ML projects, discuss probability theory, or chat about system design. Feel free to reach out!
