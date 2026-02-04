@@ -10,21 +10,6 @@
 
 I'm an **aspiring Machine Learning Engineer** from Nepal, passionate about building intelligent systems and exploring the frontiers of AI. Currently diving deep into neural networks and scalable system architectures.
 
-```python
-class NayanJha:
-    def __init__(self):
-        self.location = "Nepal 🇳🇵"
-        self.current_focus = ["Artificial Neural Networks", "TensorFlow", "System Design"]
-        self.languages_spoken = 6  # Yes, six! 🗣️
-        self.expertise = ["Python", "Machine Learning", "Probability Theory"]
-        self.website = "nayanjha.com.np"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = NayanJha()
-me.say_hi()
-```
 
 ## 🎯 Current Mission
 
@@ -96,22 +81,11 @@ I'm always excited to collaborate on ML projects, discuss probability theory, or
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=init-nj&color=3B82F6&style=for-the-badge)
-
-</div>
 
 ---
 
 <div align="center">
-
-**"The best way to predict the future is to create it."** - *Peter Drucker*
 
 ⭐️ From [init-nj](https://github.com/init-nj) |
 
