@@ -1,10 +1,4 @@
-#  Hey there!!
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=I+am+Nayan+Building+one+step+at+a+time+....+nyn)](https://git.io/typing-svg)
-
-</div>
+#  Hey there, I am Nayan!
 
 ##  About Me
 
@@ -32,4 +26,4 @@ I'm always excited to collaborate on projects, discuss theory, or chat about sys
 
 ---
 <div align="center">
----
+-nyn-
