@@ -2,18 +2,17 @@
 
 ##  About Me
 
-I'm from Nepal, passionate about building intelligent systems and exploring the frontiers of all things tech. Currently diving deep into neural networks and kernel development
+I'm from Nepal, building intelligent systems and exploring the frontiers of all things tech. Currently into neural networks and kernel development
 
 
 ## Current Mission
 
-- **Building:** Advanced Neural Network architectures & a lightweight OS from scratch
-- **Learning:** Computer Vision and Cryptography
-- **Writing:** Technical articles on various concepts at [nepStandard](https://nepstandard.com)
+- **Building:** find all @ [github](https://github.com/init-nj)
+- **Writing:** @ [nepStandard](https://nepstandard.com)
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
-I'm always excited to collaborate on projects, discuss theory, or chat about system ideas. Feel free to reach out!
+I'm excited to collaborate on projects, discuss theory, or chat about system ideas. Feel free to reach out!
 
 <div align="center">
 
