@@ -2,17 +2,18 @@
 
 ##  About Me
 
-I'm from Nepal, building intelligent systems and exploring the frontiers of all things tech. Currently into neural networks and kernel development
+I'm from Nepal. Please Hire Me.
 
 
-## Current Mission
+## Currently
 
 - **Building:** find all @ [github](https://github.com/init-nj)
 - **Writing:** @ [nepStandard](https://nepstandard.com)
+- **Funny:** @[X](https://x.com)
 
-## Let's Connect!
+## Connect Here:
 
-I'm excited to collaborate on projects, discuss theory, or chat about system ideas. Feel free to reach out!
+I'm open to collaborate on projects, discuss theory, or chat ideas. Feel free to reach out!
 
 <div align="center">
 
