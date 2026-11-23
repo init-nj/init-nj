@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://x.com/ejullls/status/2124507442172084362/photo/1" alt="Nayan Jha Profile Banner" width="100%" />
+  <img src="HXsfkmVW8AADq2y.jpeg" alt="Nayan Jha Profile Banner" width="100%" />
 </div>
 
 # Hey there, I am Nayan!
