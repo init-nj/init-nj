@@ -1,8 +1,12 @@
-#  Hey there, I am Nayan!
+<div align="center">
+  <img src="https://x.com/ejullls/status/2124507442172084362/photo/1" alt="Nayan Jha Profile Banner" width="100%" />
+</div>
 
-##  About Me
+# Hey there, I am Nayan!
 
-I'm from Nepal. Please Hire Me.
+## About Me
+
+I'm from Nepal, building stuff.
 
 
 ## Currently
@@ -27,3 +31,4 @@ I'm open to collaborate on projects, discuss theory, or chat ideas. Feel free to
 ---
 <div align="center">
 -nyn-
+</div>
